@@ -76,6 +76,6 @@
 }
 
 .player-2 .piece {
-  background-color: #ffdd44;
+  background-color: purple;
   box-shadow: inset 0 -5px 10px rgba(0, 0, 0, 0.3);
 }
